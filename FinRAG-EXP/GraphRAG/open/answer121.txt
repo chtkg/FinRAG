@@ -1,0 +1,2 @@
+问题：根据管理服务协议，HRC Medical需要向HRC Management支付多少比例的收益作为管理服务费？
+答案：根据现有管理服务协议，HRC Medical须就管理服务及使用HRCManagement的场所与设施，在每月末起15天内向HRCManagement支付管理服务费 ##3$$。该费用金额等于前一个月HRCMedical应计收益总额的90%，加上酌情奖金（如果适用） ##1$$。因此，根据此协议，HRC Medical需要向HRC Management支付其上月总收益的90%作为管理服务费。

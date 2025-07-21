@@ -1,0 +1,2 @@
+问题：Moderna 公司对新型冠状病毒的 mRNA 疫苗开发过程包括哪些步骤？
+答案：[{'text': 'Moderna公司对新型冠状病毒的mRNA疫苗开发过程包括以下步骤：', 'context': ['CEPI与Moderna协议中，Moderna将使用寨卡疫苗开发的技术来研发针对2019-nCoV的mRNA疫苗。', 'mRNA疫苗通过在体外合成翻译抗原的mRNA，然后递送到体内由体内的细胞翻译成抗原蛋白。']}]

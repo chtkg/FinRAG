@@ -1,0 +1,5 @@
+问题：目前已经有哪些支持WiFi6的产品？
+答案：目前市场上已经有了兼容WiFi6标准的手机、家庭路由器产品和企业AP产品等： ##0$$
+1. 兼容WiFi6标准的手机：包括 iPhone11系列手机、三星GalaxyS10以及小米10等。
+2. 家庭路由器产品：例如华硕（ROGGT-AX11000RT-AX88URT-AX92UMesh）、夜鹰（RAX80、RAX40、RAX120等）和TP-Link（ArcherAX50等）。
+3. 企业AP产品：例如华为AirEngine系列9700-M、5760-10等 ##1$$。

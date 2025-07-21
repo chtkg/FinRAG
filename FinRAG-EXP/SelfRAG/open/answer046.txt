@@ -1,0 +1,2 @@
+问题：文章中提到的几家动力电池企业的产能扩张情况如何？
+答案：The specific capacity expansion updates mentioned in the article pertain to CellTech 2019, where Meyer Bergman showcased its record-breaking HJT cell efficiency of 24.2%, indicating advancements towards achieving an efficiency close to 25%. Additionally, Tongwei Corporation plans for a conversion efficiency of HJT (N-type) to be above 24.5% to 25% within the mid-term period from 2020 to 2023.

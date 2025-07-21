@@ -1,0 +1,2 @@
+问题：公司的营收如何变化，增长率是多少？
+答案：The change in the company's revenue for industrial construction over the years is as follows: from 46 billion to 59 billion, then to 67 billion, corresponding growth rates of 41%, 27%, and 14% respectively. The Compound Annual Growth Rate (CAGR) for this period is approximately 27%. For public construction, the CAGR over the last three years has reached 70%, benefiting from increased government investment due to counter-cyclical adjustments.

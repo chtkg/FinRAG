@@ -1,0 +1,2 @@
+问题：国内两大云计算巨头（阿里、腾讯）在2019年的资本开支情况如何？
+答案：The provided context does not specifically detail the capital expenditures made by Alibaba and Tencent in 2019. It mentions that Alibaba reduced its server procurement following a decline in demand post the 2018双十一 event, while Tencent experienced a significant decrease in both optical network purchases and server acquisitions in 2019 compared to previous years. The context also notes an increase in demand for data center networking (数通) optical modules in the second quarter of 2019 after inventory clearance over four quarters.

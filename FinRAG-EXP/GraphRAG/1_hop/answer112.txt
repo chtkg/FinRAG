@@ -1,0 +1,2 @@
+问题：新型冠状病毒的自然宿主是什么？
+答案：根据知识库中的信息，新型冠状病毒的自然宿主很有可能是蝙蝠 ##2$$。这一结论基于《Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission》的研究指出，在进化树的位置上新型冠状病毒与SARS和类SARS病毒的类群相邻，但并不属于这些类群；而它们共同的外类群是一个寄生于果蝠的HKU9-1冠状病毒。因此推测新型冠状病毒的自然宿主也可能是蝙蝠，不过存在未知的中间宿主媒介。

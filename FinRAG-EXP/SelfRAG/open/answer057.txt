@@ -1,0 +1,2 @@
+问题：如何看待国内运营商的估值？
+答案：From the provided context, it appears that domestic telecommunications operators are typically valued using the EV/EBITDA metric due to their nature as heavy asset industries with significant depreciation and amortization expenses. Compared to American counterparts like AT&T, Verizon, and T-Mobile, which historically have valuations ranging from 6-9 times EBITDA, domestic operators generally have lower valuations, typically between 3-4 times EBITDA.

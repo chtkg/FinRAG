@@ -1,0 +1,2 @@
+问题：当前云计算厂商需求是否回暖？
+答案：The document indicates that AWS's investment has started to recover since the 2019Q period, suggesting an increase in demand from cloud service providers.

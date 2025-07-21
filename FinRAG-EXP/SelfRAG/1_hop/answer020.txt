@@ -1,0 +1,2 @@
+问题：什么是燃料电池的主要组成部分？
+答案：The primary elements of a fuel cell include the anode, cathode, electrolyte, and bipolar plates. Specifically, Proton Exchange Membrane Fuel Cells (PEMFC) are characterized by their lower operating temperature (~), which is one of the key factors in their composition.

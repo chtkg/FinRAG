@@ -1,0 +1,12 @@
+问题：文中的公司有哪些？
+答案：根据提供的知识库，下面列出了一些在其中提及过的公司：
+1. BMS (Bristol Myers Squibb) - 拥有 Opdivo PD-1抑制剂。
+2. 默沙东 (Merck & Co., Inc.) - 拥有 Keytruda PD-1抑制剂 ##0$$。
+3. 君实生物（Junshi Biosciences） - 开发 PD-1抑制剂。
+4. 信达生物 (Innovent Biologics) - 拥有PD-1抑制剂，已在中国获批并进入全国医保。
+5. 恒瑞医药（Hengrui Medicine） - 开发 PD-1抑制剂。
+6. 阿斯利康 (AstraZeneca) - 拥有PD-L1抑制剂。
+7. 长城汽车（Longcheng Automobile Co., Ltd） - 自主品牌车企，在国内规模和产品实力处于领先地位 ##1$$。
+8. 中公教育 (Chongqing Oriental Fortune Education Group) - 是一个人力资源解决方案提供商，凭借其在教研、渠道和管理方面的综合实力，积极拓展考研、IT培训等业务范围 ##4$$。
+9. 新东方在线 (New Oriental Education & Technology Group Inc.) - 依托新东方集团和腾讯集团强大的教育行业和互联网行业产业背景和资本优势，有望成长为线上教育龙头。
+10. 中石油 (China Petroleum & Chemical Corporation) - 拥有较多页岩气采矿权，将是页岩气增产的主力军 ##5$$。

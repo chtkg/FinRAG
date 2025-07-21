@@ -1,0 +1,2 @@
+问题：碳化硅功率器件相比传统硅材料有什么优势？
+答案：Silicon carbide power devices offer several advantages over traditional silicon materials. They provide higher efficiency, better thermal conductivity, and can operate at higher temperatures and voltages compared to silicon-based devices. This makes them particularly suitable for applications requiring high performance and reliability, such as electric vehicles and renewable energy systems.

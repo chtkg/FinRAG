@@ -1,0 +1,2 @@
+问题：自动驾驶技术对数据精度有什么要求？
+答案：The precision requirements for autonomous driving technology, as exemplified by Tesla's Autopilot 3.0 system, are quite high. This system is equipped with two self-developed full self-driving chips (FSD chips) and boasts a computational power of 144TOPS, significantly surpassing the processing capabilities of Nvidia Xavier's自动驾驶 data handling unit. The hardware of Autopilot 3.0 is capable of managing complex tasks efficiently, indicating stringent precision standards in its design and operation.

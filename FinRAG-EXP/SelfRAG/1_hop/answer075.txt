@@ -1,0 +1,2 @@
+问题：根据文章提供的信息，当前中国经济的复工率处于什么水平？
+答案：The article mentions the expected 5G penetration rates in China, estimating them to reach 7% by 2020 and around 30% by 2022. It also highlights that China Mobile's target for 2020 is to acquire 70 million 5G users, which corresponds to a penetration rate of about 7.3%. This figure is compared with the company's own 4G commercialization rate one year prior, suggesting a slightly slower pace in 5G adoption.

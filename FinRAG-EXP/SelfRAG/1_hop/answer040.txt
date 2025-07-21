@@ -1,0 +1,2 @@
+问题：根据提供的信息，2020年全球光伏装机容量预计是多少？
+答案：Based on the provided data, the forecasted global solar power installation capacity for the year 2020 is expected to reach more than 150 GW. China is anticipated to be the primary contributor to this growth, making significant additions to its installed solar capacity.

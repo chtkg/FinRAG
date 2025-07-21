@@ -1,0 +1,2 @@
+问题：报告发布的日期是什么？
+答案：The date of release for the report is December 16, 2019.

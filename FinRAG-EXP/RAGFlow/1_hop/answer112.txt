@@ -1,0 +1,2 @@
+问题：新型冠状病毒的自然宿主是什么？
+答案：根据《Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission》，新型冠状病毒的自然宿主很有可能是蝙蝠 ##0$$。但存在未知的中间宿主媒介。

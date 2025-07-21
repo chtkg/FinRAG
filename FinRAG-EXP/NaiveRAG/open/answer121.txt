@@ -1,0 +1,2 @@
+问题：根据管理服务协议，HRC Medical需要向HRC Management支付多少比例的收益作为管理服务费？
+答案：根据现有管理服务协议，HRC Management需要向HRC Medical支付前一个月HRC Medical应计收益90%的比例作为管理服务费。

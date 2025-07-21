@@ -1,0 +1,2 @@
+问题：燃料电池的类型有哪些？
+答案：The types of fuel cells available include PEMFC (Proton Exchange Membrane Fuel Cell) and SOFC (Solid Oxide Fuel Cell).

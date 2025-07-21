@@ -1,0 +1,2 @@
+问题：根据提供的数据，湖北省与非湖北地区的重症率、死亡率以及治愈出院率有什么不同？这些指标如何随时间变化？
+答案：Based on the provided data, Hubei province had a lower intensive care unit (ICU) rate compared to non-Hubei regions as of February 3rd, with rates at 11.59% versus 17.65%. The national ICU rate showed fluctuations around 20% before January 27th and then stabilized, decreasing from 21.61% on that date to 13.64% by February 3rd. These indicators suggest a decline in critical care rates over time at the national level.
