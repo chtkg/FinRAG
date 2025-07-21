@@ -1,9 +1,8 @@
-# FinRAG: Chinese Financial QA with Knowledge Graph-Augmented Generation
+# FinRAG:A Chinese Financial Event Knowledge Graph-Based Retrieval-Augmented Generation Framework for Financial Question Answering
 
 ![GitHub](https://img.shields.io/github/license/chtkg/FinRAG)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chtkg/FinRAG)
 
-FinRAG is an advanced Retrieval-Augmented Generation framework specifically designed for Chinese financial question answering, leveraging a financial event knowledge graph for enhanced reasoning and accuracy.
 
 ## Key Features
 
