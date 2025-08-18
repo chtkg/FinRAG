@@ -1,4 +1,4 @@
-# FinRAG:A Chinese Financial Event Knowledge Graph-Based Retrieval-Augmented Generation Framework for Financial Question Answering
+# FinRAG: A Chinese Financial Event Knowledge Graph-Based Retrieval-Augmented Generation Framework for Financial Question Answering
 
 ![GitHub](https://img.shields.io/github/license/chtkg/FinRAG)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chtkg/FinRAG)
