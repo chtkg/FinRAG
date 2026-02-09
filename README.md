@@ -24,7 +24,7 @@ Figure 1: Overview of the FinRAG framework.
 - ✅ **Generation-Verification** - Ensures reliable outputs through link prediction
 - 🚀 **Query Reconstruction** - RL-based transformation of vague queries into domain-specific expressions
 
-## Dataset
+## 📊 Dataset 📊
 
 | Component | Quantity | Content Types |
 |-----------|----------|---------------|
@@ -32,6 +32,17 @@ Figure 1: Overview of the FinRAG framework.
 | QA Pairs | 3,600 | Single-hop, Multi-hop, Open-ended questions |
 
 All content curated by financial experts and knowledge graph engineers.
+
+## Knowledge Graph-Enhanced Structured Index Construction
+The knowledge graph-enhanced structured index construction module segments external financial reports and uses a large language model (LLM) to extract entities and relations, creating a graph-based enhanced index. The module first preprocesses the documents and applies semantic-aware chunking to ensure compatibility with the LLM’s context window. It then uses the LLM to extract financial event triplets, applying a generation-verification process and error correction through a rule base. Key-Value pairs are then generated to optimize retrieval efficiency. 
+
+<p align="center">
+  <img src="./figure1.png" width="600"/>
+</p>
+<p align="center">
+Figure 1: Overview of the FinRAG framework.
+</p>
+
 
 ## Quick Start
 
