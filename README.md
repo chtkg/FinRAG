@@ -34,13 +34,13 @@ Figure 1: Overview of the FinRAG framework.
 All content curated by financial experts and knowledge graph engineers.
 
 ## Knowledge Graph-Enhanced Structured Index Construction
-The knowledge graph-enhanced structured index construction module segments external financial reports and uses a large language model (LLM) to extract entities and relations, creating a graph-based enhanced index. The module first preprocesses the documents and applies semantic-aware chunking to ensure compatibility with the LLM’s context window. It then uses the LLM to extract financial event triplets, applying a generation-verification process and error correction through a rule base. Key-Value pairs are then generated to optimize retrieval efficiency. 
+In Retrieval-Augmented Generation (RAG) systems, documents within the external knowledge base are typically sourced from a wide variety of formats. In the financial domain, such documents may include unstructured text files such as HTML, PDF, and TXT. These heterogeneous formats often contain redundant or irrelevant information, which can negatively impact the performance of the RAG system. Specifically, unprocessed documents may reduce retrieval efficiency, cause the generated responses from large language models (LLMs) to lack coherence, and impair the models’ reasoning capabilities \citep{li2023cfgpt}. To address this, we propose a knowledge graph-enhanced structured index construction module. Its workflow is illustrated in Fig.2.
 
 <p align="center">
-  <img src="./figure1.png" width="600"/>
+  <img src="./figure2.jpg" width="600"/>
 </p>
 <p align="center">
-Figure 1: Overview of the FinRAG framework.
+Figure 2: Structured Index Construction Process.
 </p>
 
 
