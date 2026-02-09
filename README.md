@@ -9,6 +9,13 @@ FinRAG, a Retrieval-Augmented Generation framework based on a Chinese financial 
 Finally, we design a dual-level retrieval mechanism inspired by LightRAG, and adapt it to the financial domain. The first level retrieves core entities based on semantic similarity, while the second level completes event chains through knowledge graph–based neighbor expansion.
 Experimental results demonstrate that the proposed framework outperforms general RAG baselines on a self-constructed Chinese financial question answering dataset.
 
+<p align="center">
+  <img src="./figure1.png" width="600"/>
+</p>
+<p align="center">
+Figure 1: Overview of the FinRAG framework.
+</p>
+
 ## Key Features
 
 - 🏦 **Domain-Specialized** - Optimized for complex Chinese financial terminology and multi-source data
