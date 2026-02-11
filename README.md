@@ -96,4 +96,35 @@ Download the project code via Git：
 ```bash
 git clone https://github.com/chtkg/FinRAG.git
 cd FinRAG
+```
+Configure the environment using the following commands:
+```bash
+conda create -n myenv python=3.6 -y   # myenv is the name of the virtual environment
+conda activate myenv      # activate the virtual environment
+pip install -r requirements.txt   # install dependencies
+```
+
+### Using Ollama Models
+
+You need to pull model you plan to use and embedding model, for example nomic-embed-text.
+This study utilized the open-source large language model **Qwen2.5** and the embedding model **nomic-embed-text**.
+
+### Data Preprocessing
+The data preprocessing pipeline is implemented in **preprocess.ipynb**.
+```bash
+jupyter notebook preprocess.ipynb
+```
+
+### Process the questions
+Process the questions by batch-reading local financial query files, extracting the specified questions, invoking a locally deployed Qwen2.5 large language model API to generate answers, and saving the results to the corresponding directories.
+```bash
+jupyter notebook ragflow.ipynb
+```
+
+### RAG Pipeline Construction
+Build a complete RAG (Retrieval-Augmented Generation) question-answering system based on a local Ollama deployment, and perform retrieval-augmented QA over local text.  \
+The workflow includes: document loading → embedding → vector database construction → retrieval → large language model answer generation.
+```bash
+jupyter notebook rag.ipynb
+```
 
