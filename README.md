@@ -91,9 +91,8 @@ Figure 6: User query reconstruction module in FinRAG.
 
 ### Installation
 
-Python version：==3.6
+Python version：==3.6  \
 Download the project code via Git：
-
 ```bash
 git clone https://github.com/chtkg/FinRAG.git
 cd FinRAG
