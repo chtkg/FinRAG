@@ -68,14 +68,24 @@ Figure 4: Chinese Financial Event Knowledge Graph Schema.
   <img src="./figure5.png" width="600"/>
 </p>
 <p align="center">
-Figure 4: Prompt for Chinese financial event triplet extraction. The original prompt is written in Chinese; an English translation is shown here.
+Figure 5: Prompt for Chinese financial event triplet extraction. The original prompt is written in Chinese; an English translation is shown here.
 </p>
 
 ### Step3:Key-Value Pair Generation for Retrieval Efficiency
 During the extraction of financial event triplets, we simultaneously use the LLM to generate a series of Key-Value pairs, where the Key represents an entity or relation to optimize retrieval efficiency, and the Value is a concise summary of the relevant text segments from the knowledge base associated with the Key. These summaries assist the LLM in the subsequent text generation process.
 
 ### Step4:Knowledge Graph Embedding Generation
+After validating the extracted financial event triplets and Key-Value summaries, we generate embeddings for entities and relations in the knowledge graph to enable efficient similarity search and retrieval. Specifically, we employ a domain-adapted Sentence-BERT model \citep{reimers2019sentence} to encode the textual representations of entities (e.g., names, descriptions) and relations (e.g., relation types, contexts) into dense vectors. These embeddings are pre-computed and stored as the semantic index of the Chinese financial event knowledge graph, which serves as the foundation for the subsequent dual-level retrieval mechanism.
 
+## Reinforcement Learning-Based User Query Reconstruction Module
+To enhance the quality of user queries and reduce the gap between user inputs and the retrieved content in the RAG framework, it is essential to align user queries with the retrieval module. In this paper, we propose a user query reconstruction model based on reinforcement learning (as illustrated in Fig.6), which reformulates user queries by leveraging the existing knowledge embedded in the RAG system and the structure of its index. This approach further enhances the system’s adaptability to diverse user queries and improves retrieval performance.
+
+<p align="center">
+  <img src="./figure6.png" width="600"/>
+</p>
+<p align="center">
+Figure 6: User query reconstruction module in FinRAG.
+</p>
 
 ## Quick Start
 
