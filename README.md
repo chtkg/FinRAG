@@ -84,7 +84,7 @@ To enhance the quality of user queries and reduce the gap between user inputs an
   <img src="./figure6.png" width="600"/>
 </p>
 <p align="center">
-Figure 6: User query reconstruction module in FinRAG.
+Figure 6: User query reconstruction module in CFinRAG.
 </p>
 
 ## Quick Start
@@ -94,8 +94,8 @@ Figure 6: User query reconstruction module in FinRAG.
 Python version：==3.10  \
 Download the project code via Git：
 ```bash
-git clone https://github.com/chtkg/FinRAG.git
-cd FinRAG
+git clone https://github.com/chtkg/CFinRAG.git
+cd CFinRAG
 ```
 Configure the environment using the following commands:
 ```bash
